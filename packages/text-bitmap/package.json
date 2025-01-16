@@ -26,7 +26,7 @@
   "dependencies": {
     "@pixi/core": "^5.0.4",
     "@pixi/display": "^5.0.4",
-    "@pixi/loaders": "^5.0.4",
+    "@pixi/loaders": "^6.1.0",
     "@pixi/math": "^5.0.4",
     "@pixi/settings": "^5.0.4",
     "@pixi/sprite": "^5.0.4",
