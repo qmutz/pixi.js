@@ -50,7 +50,7 @@
     "@pixi/filter-noise": "^5.0.4",
     "@pixi/graphics": "^5.0.4",
     "@pixi/interaction": "^5.0.4",
-    "@pixi/loaders": "^5.0.4",
+    "@pixi/loaders": "^6.1.0",
     "@pixi/math": "^5.0.4",
     "@pixi/mesh": "^5.0.4",
     "@pixi/mesh-extras": "^5.0.4",
@@ -67,7 +67,7 @@
     "@pixi/sprite-tiling": "^5.0.4",
     "@pixi/spritesheet": "^5.0.4",
     "@pixi/text": "^5.0.4",
-    "@pixi/text-bitmap": "^5.0.4",
+    "@pixi/text-bitmap": "^6.1.0",
     "@pixi/ticker": "^5.0.4",
     "@pixi/utils": "^5.0.4"
   }
