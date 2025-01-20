@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "@pixi/core": "^5.0.4",
-    "@pixi/loaders": "^5.0.4",
+    "@pixi/loaders": "^6.1.0",
     "@pixi/math": "^5.0.4",
     "@pixi/utils": "^5.0.4"
   }
